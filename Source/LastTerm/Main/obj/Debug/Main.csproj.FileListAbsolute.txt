@@ -1,0 +1,10 @@
+C:\Users\NGUYENTRUNGTAI\OneDrive\Nam 3\HK1\LT Win\LastTerm\Main\bin\Debug\Main.exe.config
+C:\Users\NGUYENTRUNGTAI\OneDrive\Nam 3\HK1\LT Win\LastTerm\Main\bin\Debug\Main.exe
+C:\Users\NGUYENTRUNGTAI\OneDrive\Nam 3\HK1\LT Win\LastTerm\Main\bin\Debug\Main.pdb
+C:\Users\NGUYENTRUNGTAI\OneDrive\Nam 3\HK1\LT Win\LastTerm\Main\bin\Debug\Hook.exe
+C:\Users\NGUYENTRUNGTAI\OneDrive\Nam 3\HK1\LT Win\LastTerm\Main\bin\Debug\Hook.pdb
+C:\Users\NGUYENTRUNGTAI\OneDrive\Nam 3\HK1\LT Win\LastTerm\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\NGUYENTRUNGTAI\OneDrive\Nam 3\HK1\LT Win\LastTerm\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\NGUYENTRUNGTAI\OneDrive\Nam 3\HK1\LT Win\LastTerm\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\NGUYENTRUNGTAI\OneDrive\Nam 3\HK1\LT Win\LastTerm\Main\obj\Debug\Main.exe
+C:\Users\NGUYENTRUNGTAI\OneDrive\Nam 3\HK1\LT Win\LastTerm\Main\obj\Debug\Main.pdb
